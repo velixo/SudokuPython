@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 import unittest
-import src.incrementModule
+# import src.incrementModule
+from ..src import incrementModule
 
 def fun(x):
 	return x + 1
