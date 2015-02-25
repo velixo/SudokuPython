@@ -1,1 +1,5 @@
+# Importing in python
 http://stackoverflow.com/questions/16981921/relative-imports-in-python-3
+
+# Unit testing
+http://www.openp2p.com/pub/a/python/2004/12/02/tdd_pyunit.html
